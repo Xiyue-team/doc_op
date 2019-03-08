@@ -1,14 +1,14 @@
 header:
   - title:      汇总
     url:        /2018/Welcome
-  - title:      用户培训
-    url:        /archive.html
   - title:      销售培训
-    url:        /archive.html
+    url:        /st/火花学院标准话术
+  - title:      用户培训
+    url:        /2019/Jan
 
 
 用户培训:
-  - title:      用户培训
+  - title:      销售培训
     children:
       - title:  WELCOME
         url:    /2018/Welcome
@@ -31,7 +31,7 @@ header:
       - title:  2018年报
         url:    /2018/Annual Report   
        
-  - title:      销售培训
+  - title:      用户培训
     children:
       - title:  1月
         url:    /2019/Jan
