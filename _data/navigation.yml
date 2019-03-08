@@ -2,44 +2,42 @@ header:
   - title:      汇总
     url:        /summary
   - title:      销售培训
-    url:        /st/火花学院标准话术
+    url:        /salestraining/销售培训
   - title:      用户培训
-    url:        /2019/Jan
+    url:        /userstraining/用户培训
   - title:      营销物料
-    url:        /st/火花学院标准话术
+    url:        /marketingmaterials/营销物料
   - title:      项目资料
-    url:        /2019/Jan
+    url:        /projectfile/项目资料 
 
 
-用户培训:
+销售培训:
   - title:      销售培训
     children:
-      - title:  WELCOME
-        url:    /2018/Welcome
-      - title:  5月
-        url:    /2018/May
-      - title:  6月
-        url:    /2018/Jun
-      - title:  7月
-        url:    /2018/Jul
-      - title:  8月
-        url:    /2018/Aug
-      - title:  9月
-        url:    /2018/Sept
-      - title:  10月
-        url:    /2018/Oct
-      - title:  11月
-        url:    /2018/Nov
-      - title:  12月
-        url:    /2018/Dec
-      - title:  2018年报
-        url:    /2018/Annual Report   
-       
+      - title:  销售培训
+        url:    /salestraining/销售培训
+
+  
+用户培训:
   - title:      用户培训
     children:
-      - title:  1月
-        url:    /2019/Jan
-  
+      - title:  用户培训
+        url:    /suserstraining/用户培训
+
+
+营销物料:
+  - title:      营销物料
+    children:
+      - title:  营销物料
+        url:    /marketingmaterials/营销物料 
+
+        
+项目资料:
+  - title:      项目资料
+    children:
+      - title:  项目资料
+        url:    /projectfile/项目资料 
+
 
 layouts:
   - title: Layouts
