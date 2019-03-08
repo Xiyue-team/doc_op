@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Welcome
-permalink: /Welcome
+permalink: /summary
 key: Welcome
 aside:
   toc: true
