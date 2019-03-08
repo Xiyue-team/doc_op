@@ -1,16 +1,15 @@
 ---
 layout: article
 title: Welcome
-permalink: /2018/Welcome
-key: 2018-Welcome
+permalink: /Welcome
+key: Welcome
 aside:
   toc: true
 sidebar:
-  nav: 2018
+  nav: 汇总
 ---
 
-# 欢迎！
+# 概述
 
-月度工作成果描述汇总，单月包含内容制作、软件开发及运营支撑三部分。
+运营相关文档资料更新及存储。
 
-![avatar](images/welcome.png)
