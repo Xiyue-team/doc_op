@@ -3,309 +3,6 @@
 
 运营相关文档资料更新及存储。可查看及下载。
 
-## [<font size="5" color="gray">销售培训</font>](https://xiyue-team.github.io/doc_op/salestraining/%E9%94%80%E5%94%AE%E5%9F%B9%E8%AE%AD)
-
-## [<font size="5" color="gray">用户培训</font>](https://xiyue-team.github.io/doc_op/userstraining/%E7%94%A8%E6%88%B7%E5%9F%B9%E8%AE%AD)
-
-## [<font size="5" color="gray">营销物料</font>](https://xiyue-team.github.io/doc_op/marketingmaterials/%E8%90%A5%E9%94%80%E7%89%A9%E6%96%99)
-
-## [<font size="5" color="gray">项目资料</font>](https://xiyue-team.github.io/doc_op/projectfile/%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%96%99)
-
-
-<!--table
-	{mso-displayed-decimal-separator:"\.";
-	mso-displayed-thousand-separator:"\,";}
-.font54117
-	{color:windowtext;
-	font-size:9.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;}
-.xl634117
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl644117
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl654117
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:gray;
-	font-size:16.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl664117
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	background:#FDE9D9;
-	mso-pattern:black none;
-	white-space:nowrap;}
-.xl674117
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;
-	background:#FDE9D9;
-	mso-pattern:black none;
-	white-space:nowrap;}
-.xl684117
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl694117
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:none;
-	background:#FDE9D9;
-	mso-pattern:black none;
-	white-space:nowrap;}
-.xl704117
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:none;
-	background:#FDE9D9;
-	mso-pattern:black none;
-	white-space:nowrap;}
-.xl714117
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;
-	background:#FDE9D9;
-	mso-pattern:black none;
-	white-space:nowrap;}
-.xl724117
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;
-	background:#FDE9D9;
-	mso-pattern:black none;
-	white-space:nowrap;}
-.xl734117
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;
-	background:#FDE9D9;
-	mso-pattern:black none;
-	white-space:nowrap;}
-.xl744117
-	{padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border:.5pt solid windowtext;
-	background:#FDE9D9;
-	mso-pattern:black none;
-	white-space:nowrap;}
-ruby
-	{ruby-align:left;}
-rt
-	{color:windowtext;
-	font-size:9.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:宋体;
-	mso-generic-font-family:auto;
-	mso-font-charset:134;
-	mso-char-type:none;}
--->
-</style>
-</head>
-
-<body>
-<!--[if !excel]>　　<![endif]-->
-<!--下列信息由 Microsoft Excel 的发布为网页向导生成。-->
-<!--如果同一条目从 Excel 中重新发布，则所有位于 DIV 标记之间的信息均将被替换。-->
-<!----------------------------->
-<!--“从 EXCEL 发布网页”向导开始-->
-<!----------------------------->
-
-<div id="运营资料_4117" align=center x:publishsource="Excel">
 
 <table border=0 cellpadding=0 cellspacing=0 width=782 class=xl634117
  style='border-collapse:collapse;table-layout:fixed;width:587pt'>
@@ -326,7 +23,7 @@ rt
  </tr>
  <tr height=18 style='height:13.5pt'>
   <td rowspan=19 height=342 class=xl744117 style='height:256.5pt;border-top:
-  none'>[运营培训](https://xiyue-team.github.io/doc_op/operationtraining/%E8%BF%90%E8%90%A5%E5%9F%B9%E8%AE%AD)</td>
+  none'>运营培训</td>
   <td rowspan=8 class=xl664117 style='border-top:none'>岗前培训</td>
   <td rowspan=4 class=xl664117 style='border-top:none'>公司介绍</td>
   <td class=xl664117 style='border-top:none;border-left:none'>公司简介</td>
@@ -427,7 +124,7 @@ rt
  </tr>
  <tr height=18 style='height:13.5pt'>
   <td rowspan=26 height=468 class=xl684117 style='height:351.0pt;border-top:
-  none'>[销售培训](https://xiyue-team.github.io/doc_op/salestraining/%E9%94%80%E5%94%AE%E5%9F%B9%E8%AE%AD)</td>
+  none'>销售培训</td>
   <td rowspan=2 class=xl644117 style='border-top:none'>入门培训</td>
   <td class=xl644117 style='border-top:none;border-left:none'>科学可视化教学概述</td>
   <td class=xl644117 style='border-top:none;border-left:none'>　</td>
@@ -566,7 +263,7 @@ rt
  </tr>
  <tr height=18 style='height:13.5pt'>
   <td rowspan=18 height=324 class=xl694117 style='border-bottom:.5pt solid black;
-  height:243.0pt;border-top:none'>[用户培训](https://xiyue-team.github.io/doc_op/userstraining/%E7%94%A8%E6%88%B7%E5%9F%B9%E8%AE%AD)</td>
+  height:243.0pt;border-top:none'>用户培训</td>
   <td rowspan=8 class=xl664117 style='border-top:none'>基本操作</td>
   <td class=xl664117 style='border-top:none;border-left:none'>下载、安装及更新</td>
   <td rowspan=2 class=xl664117 style='border-top:none'>个人账户</td>
@@ -658,7 +355,7 @@ rt
  </tr>
  <tr height=18 style='height:13.5pt'>
   <td rowspan=12 height=216 class=xl684117 style='height:162.0pt;border-top:
-  none'>[营销物料](https://xiyue-team.github.io/doc_op/marketingmaterials/%E8%90%A5%E9%94%80%E7%89%A9%E6%96%99)</td>
+  none'>营销物料</td>
   <td rowspan=2 class=xl644117>公司简介</td>
   <td class=xl644117 style='border-left:none'>标准化文档</td>
   <td class=xl644117 style='border-left:none'>　</td>
