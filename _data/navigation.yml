@@ -1,12 +1,13 @@
 header:
+  - title:      运营培训
+    url:        /operationtraining/运营培训 
   - title:      销售培训
     url:        /salestraining/销售培训
   - title:      用户培训
     url:        /userstraining/用户培训
   - title:      营销物料
     url:        /marketingmaterials/营销物料
-  - title:      项目资料
-    url:        /projectfile/项目资料 
+
 
 
 运营培训:
