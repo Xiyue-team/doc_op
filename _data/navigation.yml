@@ -9,6 +9,13 @@ header:
     url:        /projectfile/项目资料 
 
 
+运营培训:
+  - title:      运营培训
+    children:
+      - title:  运营培训
+        url:    /operationtraining/运营培训 
+        
+        
 销售培训:
   - title:      销售培训
     children:
@@ -30,11 +37,6 @@ header:
         url:    /marketingmaterials/营销物料 
 
         
-项目资料:
-  - title:      项目资料
-    children:
-      - title:  项目资料
-        url:    /projectfile/项目资料 
 
 
 layouts:
