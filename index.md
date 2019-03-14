@@ -5,10 +5,15 @@
 
 ```mermaid
 graph LR
-    A{[一 运营培训](https://xiyue-team.github.io/doc_op/operationtraining/%E8%BF%90%E8%90%A5%E5%9F%B9%E8%AE%AD)} --- a( 1.岗前培训 )    
+    A{一 运营培训} --- a( 1.岗前培训 ) 
+    style A fill:orange,stroke:#EDEDED,stroke-width:4px
+    style a fill:#EDEDED,stroke:gray,stroke-width:1px
     a---1[公司介绍] ;
+    style 1 fill:white,stroke:gray,stroke-width:0.5px
     a---2[产品简介] ;
+    style 2 fill:white,stroke:gray,stroke-width:0.5px
     a---3[岗位说明] ;
+    style 3 fill:white,stroke:gray,stroke-width:0.5px
 ```
 
 ```mermaid
