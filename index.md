@@ -14,7 +14,6 @@ graph LR
     style 2 fill:white,stroke:gray,stroke-width:0.5px 
     a --- 3[岗位说明] 
     style 3 fill:white,stroke:gray,stroke-width:0.5px 
-
     A{一 运营培训} --- b( 2.&ensp;&ensp;运营标准化 )
     style b fill:#EDEDED,stroke:gray,stroke-width:1px
     b --- 4[标准化入校简介] 
@@ -23,7 +22,6 @@ graph LR
     style 5 fill:white,stroke:gray,stroke-width:0.5px 
     b --- 6[校企合作流程] 
     style 6 fill:white,stroke:gray,stroke-width:0.5px 
-
     A{一 运营培训} --- c( 3.专项能力提升 )
     style c fill:#EDEDED,stroke:gray,stroke-width:1px
     c --- 7[课件制作] 
