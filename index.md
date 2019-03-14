@@ -5,8 +5,19 @@
 
 ```mermaid
 graph LR
-    A{一 运营培训} --- a( 1.&ensp;岗&ensp;前&ensp;培&ensp;训 )    
-    a --- 1[公司介绍] 
-    a --- 2[产品简介] ;
-    a --- 3[岗位说明] ;
+    A{一 运营培训} --- a( 1.岗前培训 )    
+    a---1[公司介绍] ;
+    a---2[产品简介] ;
+    a---3[岗位说明] ;
+```
+
+```mermaid
+graph TB;
+    A[Do you have a problem in your life?]
+    B[Then don't worry]
+    C[Can you do something about it?]
+    A--no-->B;
+    A--yes-->C;
+    C--no-->B;
+    C--yes-->B;
 ```
