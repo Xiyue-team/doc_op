@@ -10,7 +10,7 @@ graph TD
     A---C(2.运营标准化);
     A---D(3.专项能力提升);
     B-->C;
-    C-->D
+    C-->D;
     style A fill:orange,stroke:#EDEDED,stroke-width:4px
     style B fill:#EDEDED,stroke:gray,stroke-width:1px
     style C fill:#EDEDED,stroke:gray,stroke-width:1px
