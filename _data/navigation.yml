@@ -16,11 +16,11 @@ header:
       - title:  运营培训
         url:    /operationtraining/运营培训 
       - title:  1.岗前培训
-        url:    /operationtraining/1.岗前培训
+        url:    /operationtraining/1岗前培训
       - title:  2.运营标准化
-        url:    /operationtraining/2.运营标准化 
+        url:    /operationtraining/2运营标准化 
       - title:  3.专项能力提升
-        url:    /operationtraining/3.专项能力提升                        
+        url:    /operationtraining/3专项能力提升                        
         
 销售培训:
   - title:      销售培训
@@ -28,13 +28,13 @@ header:
       - title:  销售培训
         url:    /salestraining/销售培训
       - title:  1.入门培训
-        url:    /salestraining/1.入门培训        
+        url:    /salestraining/1入门培训        
       - title:  2.强化课程
-        url:    /salestraining/2.强化课程
+        url:    /salestraining/2强化课程
       - title:  3.素质提升
-        url:    /salestraining/3.素质提升
+        url:    /salestraining/3素质提升
       - title:  4.更新反馈
-        url:    /salestraining/4.更新反馈
+        url:    /salestraining/4更新反馈
 
         
 用户培训:
@@ -43,13 +43,13 @@ header:
       - title:  用户培训
         url:    /suserstraining/用户培训
       - title:  1.基本操作
-        url:    /suserstraining/1.基本操作
+        url:    /suserstraining/1基本操作
       - title:  2.产品使用
-        url:    /suserstraining/2.产品使用
+        url:    /suserstraining/2产品使用
       - title:  3.能力提升
-        url:    /suserstraining/3.能力提升
+        url:    /suserstraining/3能力提升
       - title:  4.服务与帮助
-        url:    /suserstraining/4.服务与帮助
+        url:    /suserstraining/4服务与帮助
 
 
 营销物料:
@@ -58,13 +58,13 @@ header:
       - title:  营销物料
         url:    /marketingmaterials/营销物料 
       - title:  1.公司宣传
-        url:    /marketingmaterials/1.公司背景 
+        url:    /marketingmaterials/1公司背景 
       - title:  2.产品宣传
-        url:    /marketingmaterials/营销物料         
+        url:    /marketingmaterials/2产品宣传         
       - title:  3.销售专用
-        url:    /marketingmaterials/3.销售专用 
+        url:    /marketingmaterials/3销售专用 
       - title:  4.营销归档
-        url:    /marketingmaterials/4.营销归档 
+        url:    /marketingmaterials/4营销归档 
 
 
 
