@@ -41,15 +41,15 @@ header:
   - title:      用户培训
     children:
       - title:  用户培训
-        url:    /suserstraining/用户培训
+        url:    /userstraining/用户培训
       - title:  1.基本操作
-        url:    /suserstraining/1基本操作
+        url:    /userstraining/1基本操作
       - title:  2.产品使用
-        url:    /suserstraining/2产品使用
+        url:    /userstraining/2产品使用
       - title:  3.能力提升
-        url:    /suserstraining/3能力提升
+        url:    /userstraining/3能力提升
       - title:  4.服务与帮助
-        url:    /suserstraining/4服务与帮助
+        url:    /userstraining/4服务与帮助
 
 
 营销物料:
