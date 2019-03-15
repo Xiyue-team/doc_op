@@ -6,11 +6,9 @@
 ```mermaid
 graph TD
     A["一 运营培训"]
-    A---B(1.岗前培训)
-    A---C(2.运营标准化);
-    A---D(3.专项能力提升);
-    B-->C;
-    C-->D;
+    A---B(1.岗前培训);
+    B-->C(2.运营标准化);
+    C-->D(3.专项能力提升);
     style A fill:orange,stroke:#EDEDED,stroke-width:4px
     style B fill:#EDEDED,stroke:gray,stroke-width:1px
     style C fill:#EDEDED,stroke:gray,stroke-width:1px
