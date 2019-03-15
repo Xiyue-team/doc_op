@@ -35,7 +35,7 @@ graph LR
     A---B(1.基本操作);
     B-->C(2.产品使用);
     C-->D(3.能力提升);
-    D---E(4.服务于帮助);
+    D---E(4.服务与帮助);
     style A fill:orange,stroke:#EDEDED,stroke-width:4px
     style B fill:#EDEDED,stroke:gray,stroke-width:1px
     style C fill:#EDEDED,stroke:gray,stroke-width:1px
