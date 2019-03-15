@@ -18,7 +18,7 @@
 
 ## => Site Settings
 ##############################
-text_skin: orange 
+text_skin: default 
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # https://xiyue-team.github.io/doc_op/
 baseurl : # does not include hostname
